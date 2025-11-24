@@ -1,2 +1,36 @@
-
-/* Your CSS Code here. */
+.col-sm-1{
+	display:flex;
+	gap:5px;
+	margin-bottom:10px;
+}
+.col-sm-1>img{
+	width:100px;
+	height:100px;
+}
+.col-sm-2{
+	display:flex;
+	gap:5px;
+	margin-bottom:10px;
+}
+.col-sm-2>img{
+	width:100px;
+	height:100px;
+}
+.col-sm-4{
+	display:flex;
+	gap:5px;
+	margin-bottom:10px;
+}
+.col-sm-4>img{
+	width:100px;
+	height:100px;
+}
+.col-sm-12{
+	display:flex;
+	gap:5px;
+	margin-bottom:10px;
+}
+.col-sm-12>img{
+	width:100px;
+	height:100px;
+}
